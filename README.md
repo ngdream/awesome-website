@@ -8,6 +8,7 @@ a curated list of website with good design  per category .repository was made to
 - [gaming](#gaming)
 - [streaming](#streaming)
 - [cloud](#cloud)
+- [project](#project)
 - [store](#store)
 
 ___
@@ -29,7 +30,7 @@ ___
 
 - [dopbox](https://www.dropbox.com/)
 
-## projects
+## project
 
 - [gtk](https://www.gtk.org/)
 - [Bootstrap](https://getbootstrap.com/)
