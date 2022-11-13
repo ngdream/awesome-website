@@ -24,6 +24,7 @@ ___
 ## Streaming
 - [Youtube](https://youtube.com/)
 - [biliblili](https://www.bilibili.tv/)
+- [netflix](https://www.netflix.com/)
 
 ## Cloud
 - [google drive](https://drive.google.com/drive/my-drive)
