@@ -28,7 +28,6 @@ ___
 
 ## Cloud
 - [google drive](https://drive.google.com/drive/my-drive)
-
 - [dopbox](https://www.dropbox.com/)
 
 ## project
@@ -36,6 +35,7 @@ ___
 - [gtk](https://www.gtk.org/)
 - [Bootstrap](https://getbootstrap.com/)
 - [game maker](https://gamemaker.io)
+- [bluestacks](https://www.bluestacks.com/)
 
 ## store
 - [goole play store](https://play.google.com/)
