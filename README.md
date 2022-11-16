@@ -15,7 +15,7 @@ ___
 
 
 ## Gaming
-- [instant-gaming] (https://www.instant-gaming.com/)
+- [instant-gaming](https://www.instant-gaming.com/)
 - [Ubisoft](https://www.ubisoft.com/)
 - [yoyo games](https://www.yoyogames.com/)
 - [Snokido](https://www.snokido.com/)
